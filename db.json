@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "user":"ithipon.k",
+      "name": "อิทธิพล เข็มเงิน"
+    },
+    {
+      "id":2,
+      "user":"suttiluk.k",
+      "name": "สุทธิลักษณ์ เข็มเงิน"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
